@@ -14,8 +14,6 @@ import butterknife.OnClick;
 public class MainActivity extends AppCompatActivity {
 
 
-    @BindView(R.id.btn_customlist)
-    Button btnCustomlist;
     @BindView(R.id.btn_customgrid)
     Button btnCustomgrid;
 
@@ -26,17 +24,12 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
     }
 
-
-    @OnClick({R.id.btn_customlist, R.id.btn_customgrid})
-    public void onClick(View view) {
-        Intent i = new Intent (this, BuahActivity.class);
+    @OnClick({R.id.btn_customgrid})
+    public void onViewClicked(View view) {
+        Intent i = new Intent(this, BuahActivity.class);
         switch (view.getId()) {
-            case R.id.btn_customlist:
-                i.putExtra ("requestcode", 1);
-                startActivity(i);
-                break;
             case R.id.btn_customgrid:
-                i.putExtra ("requestcode", 2);
+                i.putExtra("requestCode", 2);
                 startActivity(i);
                 break;
         }

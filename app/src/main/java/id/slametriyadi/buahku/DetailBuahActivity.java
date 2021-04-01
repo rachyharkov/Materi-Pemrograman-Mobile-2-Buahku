@@ -23,32 +23,33 @@ public class DetailBuahActivity extends AppCompatActivity {
     @BindView(R.id.toolbar_layout)
     CollapsingToolbarLayout toolbarLayout;
     @BindView(R.id.app_bar)
-    AppBarLayout appBarLayout;
+    AppBarLayout appBar;
     @BindView(R.id.txtdetailbuah)
     TextView txtdetailbuah;
     @BindView(R.id.fab)
-    FloatingActionButton floatingActionButton;
-
+    FloatingActionButton fab;
 
     @Override
-    protected void onCreate (Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail_buah);
         ButterKnife.bind(this);
         setSupportActionBar(toolbar);
 
-        //TODO 2 untuk menyimpan detail buah
+        //TODO 4 Untuk menyimpan detail buah pada DetailBuahActivity.java
         txtdetailbuah.setText(getIntent().getIntExtra("dB", 0));
         imgbuah.setImageResource(getIntent().getIntExtra("gB", 0));
         if (getSupportActionBar() != null) {
             getSupportActionBar().setTitle(getIntent().getStringExtra("nB"));
         }
     }
-        //TODO 7 Untuk klik wikibuahactivity
+        //TODO 7 Fungsi untuk meng klik wikibuahactivity pada DetailBuahActivity.java
         @OnClick(R.id.fab)
         public void onViewClicked() {
             Intent wikiIntent = new Intent(this, WikiBuahActivity.class);
             wikiIntent.putExtra("lB",getIntent().getIntExtra("lB", 0));
             startActivity(wikiIntent);
+        }
     }
-}
+
+

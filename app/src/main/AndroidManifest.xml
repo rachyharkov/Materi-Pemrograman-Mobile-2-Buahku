@@ -11,10 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".WikiBuahActivity"/>
-        <activity android:name=".DetailBuahActivity"
-            android:theme="@style/AppTheme.NoActionBar"/>
-        <activity android:name=".BuahActivity"/>
+        <activity android:name=".WikiBuahActivity"></activity>
+        <activity
+            android:name=".DetailBuahActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".BuahActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

@@ -6,22 +6,23 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity">
-
-    <Button
-        android:id="@+id/btn_customlist"
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        android:text="Custom Listview"
-        android:layout_margin="10dp"
-        android:textColor="@android:color/white" />
+        android:text="Selamat Datang"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:textSize="20sp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
 
     <Button
         android:id="@+id/btn_customgrid"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/colorPrimary"
-        android:text="Custom Gridview"
         android:layout_margin="10dp"
+        android:background="#673AB7"
+        android:text="Lihat Nama Hewan"
         android:textColor="@android:color/white" />
+
 </LinearLayout>

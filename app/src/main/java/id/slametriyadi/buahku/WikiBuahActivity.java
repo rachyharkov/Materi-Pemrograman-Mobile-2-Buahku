@@ -1,14 +1,12 @@
 package id.slametriyadi.buahku;
 
-import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-import butterknife.OnClick;
 
 public class WikiBuahActivity extends AppCompatActivity {
 
@@ -20,14 +18,12 @@ public class WikiBuahActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_wiki_buah);
         ButterKnife.bind(this);
-
+        setTitle("Wiki Hewan");
 
         //TODO 9 Fungsi untuk menuju ke link web wikipedia
         webBuah.getSettings().setJavaScriptEnabled(true);
         webBuah.setWebViewClient(new WebViewClient());
-        int linkBuah = getIntent().getIntExtra("IB", 0);
+        int linkBuah = getIntent().getIntExtra("lB", 0);
         webBuah.loadUrl(getResources().getString(linkBuah));
-
     }
 }
-

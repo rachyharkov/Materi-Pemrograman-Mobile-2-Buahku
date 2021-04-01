@@ -1,30 +1,43 @@
 <resources>
-    <string name="app_name">Tokbu</string>
-    <string name="apel">
-        Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan (siap dimakan), namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek, daging buahnya keras
+    <string name="app_name">Formatif - Rachmad Nur Hayat</string>
+    <string name="jerapah">
+        Jerapah atau zarafah (nama ilmiah: Giraffa camelopardalis) adalah mamalia berkuku genap endemik Afrika dan merupakan spesies hewan tertinggi yang hidup di darat. Jerapah jantan dapat mencapai tinggi 4,8 sampai 5,5 meter dan memiliki berat yang dapat mencapai 1.360 kilogram. Jerapah betina biasanya sedikit lebih pendek dan lebih ringan.
+        Jerapah berkerabat dengan rusa dan sapi tetapi dari suku yang berbeda, yaitu Giraffidae yang mencakup jerapah sendiri dan kerabat terdekatnya, okapi. Habitat aslinya mencakup area dari Chad sampai dengan Afrika Selatan
+        Jerapah di timur laut Meksiko
+Nama spesiesnya camelopardalis diambil dari nama dalam latin, karena dianggap sebagai bastar unta (camel) dan macan tutul (leopard). Nama camelopardalis dipakai oleh Plinius senior dalam ensiklopedia yang ditulisnya. Nama ini juga dipakai sebagai nama salah satu rasi bintang. Nama "jerapah" sendiri dipinjam dari nama hewan ini dalam bahasa Arab (الزرافة, zirafah).
     </string>
-    <string name="jambuair">
-        Jambu air adalah tumbuhan dalam suku jambu-jambuan atau Myrtaceae yang berasal dari Asia Tenggara. Jambu air sebetulnya berbeda dengan jambu semarang (Syzygium samarangense), kerabat dekatnya yang memiliki pohon dan buah hampir serupa. Beberapa kultivarnya bahkan sukar dibedakan, sehingga kedua-duanya kerap dinamai dengan nama umum jambu air atau jambu saja. Jambu air mudah ditanam dan di budidaya
+    <string name="harimau">
+        Harimau (nama ilmiah: Panthera tigris; disebut juga sebagai macan, meskipun lebih sering digunakan untuk hewan dari spesies Panthera pardus beserta subspesiesnya) adalah hewan yang tergolong dalam filum Chordata, subfilum vertebrata, kelas mamalia, pemakan daging (karnivora), keluarga felidae (kucing), genus panthera, dan tergolong dalam spesies tigris.
+        Harimau adalah jenis kucing terbesar dari spesiesnya, bahkan lebih besar dari singa. Harimau juga adalah kucing tercepat kedua dalam berlari, setelah citah. Dalam keseluruhan karnivora, harimau adalah kucing karnivora terbesar dan karnivora terbesar ketiga setelah beruang kutub dan beruang coklat.
+        Harimau biasanya memburu mangsa yang agak besar seperti rusa sambar, kijang, babi, atau kancil. Namun, harimau akan memburu hewan kecil seperti landak apabila mangsa yang agak besar itu tidak ada. Meskipun berasal dari keluarga yang sama, harimau berbeda dengan kucing biasa yang kecil, harimau sangat suka berenang, dan pada dasarnya kucing takut dengan air.
     </string>
-    <string name="manggis">
-        Manggis (Garcinia mangostana L.) adalah sejenis pohon hijau abadi dari daerah tropika yang diyakini berasal dari Kepulauan Nusantara. Tumbuh hingga mencapai 7 sampai 25 meter. Buahnya juga disebut manggis, berwarna merah keunguan ketika matang, meskipun ada pula varian yang kulitnya berwarna merah. Buah manggis dalam perdagangan dikenal sebagai "ratu buah", sebagai pasangan durian, si "raja buah". Buah ini mengandung mempunyai aktivitas antiinflamasi dan antioksidan. Sehingga di luar negeri buah manggis dikenal sebagai buah yang memiliki kadar antioksidan tertinggi di dunia.
+    <string name="kucing">
+       Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada "kucing besar" seperti singa dan harimau.
+
+Kucing telah berbaur dengan kehidupan manusia paling tidak sejak 6.000 tahun SM, dari kerangka kucing di Pulau Siprus.Orang Mesir Kuno dari 3.500 SM telah menggunakan kucing untuk menjauhkan tikus atau hewan pengerat lain dari lumbung yang menyimpan hasil panen.
+
+Saat ini, kucing adalah salah satu hewan peliharaan terpopuler di dunia. Kucing yang garis keturunannya tercatat secara resmi sebagai kucing trah atau galur murni (pure breed), seperti persia, siam, manx, dan sphinx. Kucing seperti ini biasanya dibiakkan di tempat pemeliharaan hewan resmi. Jumlah kucing ras hanyalah 1% dari seluruh kucing di dunia, sisanya adalah kucing dengan keturunan campuran seperti kucing liar atau kucing kampung.
     </string>
-    <string name="durian">
-        Durian adalah nama tumbuhan tropis yang berasal dari wilayah Asia Tenggara, sekaligus nama buahnya yang bisa dimakan. Nama ini diambil dari ciri khas kulit buahnya yang keras dan berlekuk-lekuk tajam sehingga menyerupai duri. Sebutan populernya adalah "raja dari segala buah" (King of Fruit). Durian adalah buah yang kontroversial, meskipun banyak orang yang menyukainya, namun sebagian yang lain malah muak dengan aromanya "\n\n"
-        Sesungguhnya, tumbuhan dengan nama durian bukanlah spesies tunggal tetapi sekelompok tumbuhan dari marga Durio.[1] Namun, yang dimaksud dengan durian (tanpa imbuhan apa-apa) biasanya adalah Durio zibethinus. Jenis-jenis durian lain yang dapat dimakan dan kadangkala ditemukan di pasar tempatan di Asia Tenggara di antaranya adalah lai (D. kutejensis), kerantungan (D. oxleyanus), durian kura-kura atau kekura (D. graveolens), serta lahung (D. dulcis). Untuk selanjutnya, uraian di bawah ini mengacu kepada D. zibethinus.
+    <string name="kambing">
+        Kambing ternak (Capra aegagrus hircus) merupakan salah satu subspesies kambing yang dipelihara atau dijinakkan dari kambing liar Asia Barat Daya dan Eropa Timur. Kambing merupakan anggota dari keluarga Bovidae dan bersaudara dengan biri-biri karena keduanya tergolong dalam sub famili Caprinae. Terdapat lebih 300 jenis kambing yang berbeda-beda.[1] Kambing adalah salah satu di antara spesies yang paling lama di ternakkan, yaitu untuk susu, daging, bulu, dan kulit di seluruh dunia.[2] Pada tahun 2011, populasi kambing yang hidup di seluruh dunia mencapai 924 juta menurut Organisasi Pangan dan Pertanian Perserikatan Bangsa-Bangsa.[3]
+        Seekor kambing jantan dewasa.
+        Kambing merupakan binatang memamah biak yang berukuran sedang. Kambing ternak (Capra aegagrus hircus) adalah subspesies kambing liar yang secara alami tersebar di Asia Barat Daya (daerah "Bulan sabit yang subur" dan Turki) dan Eropa. Kambing liar jantan maupun betina memiliki tanduk sepasang, namun tanduk pada kambing jantan lebih besar. Umumnya, kambing mempunyai janggut, dahi cembung, ekor agak ke atas, dan kebanyakan berrambut lurus dan kasar. Panjang tubuh kambing liar, tidak termasuk ekor, adalah 1,3 meter - 1,4 meter, sedangkan ekornya 12 sentimeter - 15 sentimeter. Bobot kambing betina 50 kilogram - 55 kilogram, sedangkan yang jantan bisa mencapai 120 kilogram. Kambing liar tersebar dari Spanyol ke arah timur sampai India, dan dari India ke utara sampai Mongolia dan Siberia. Habitat yang disukainya adalah daerah pegunungan yang berbatu-batu.
+        Kambing sudah dibudidayakan manusia kira-kira 8000 hingga 9000 tahun yang lalu. Biasanya, kambing hidup berkelompok 5 sampai 20 ekor. Dalam pengembaraannnya mencari makanan, kelompok kambing ini dipimpin oleh kambing betina yang paling tua. Sementara kambing-kambing jantan berperan menjaga keamanan kawanan. Waktu aktif mencari makannya siang maupun malam hari. Makanan utamanya adalah rumput-rumputan dan dedaunan.
     </string>
-    <string name="ceri">
-        Ceri adalah kelompok tumbuhan maupun buahnya anggota marga Prunus. Ceri tidak mencakup satu jenis saja, tetapi ada beberapa, seperti P. cerasus, P. avium, dan P. emarginata. "\n\n"
-        Ceri adalah pohon yang sangat disukai di Jepang dan bunganya disebut sakura. Pada awal musim semi, di saat bunga ceri bermekaran, orang-orang berpiknik di taman-taman yang ditumbuhi pohon ini. Di Australia ceri biasanya matang sekitar waktu Natal, sedangkan di Amerika dan Eropa selatan pada bulan Juni. Produksi di seluruh dunia saat ini tiga juta ton per tahun. Selain itu bunga dan buah ceri juga dijadikan hiasan hidangan makanan atau minuman. Buah ceri mengandung antosianin, yaitu pigmen warna merah yang baik untuk kesehatan karena merupakan antioksidan. Selain itu, rutin mengkonsumsi buah ceri setiap hari dapat menurunkan jumlah kadar asam urat dalam tubuh, bahkan dapat menyembuhkan pirai
+    <string name="kuda">
+        Kuda (Equus caballus atau Equus ferus caballus) adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Hewan ini telah lama merupakan salah satu hewan peliharaan yang penting secara ekonomis dan historis, dan telah memegang peranan penting dalam pengangkutan orang dan barang selama ribuan tahun.
+        Kuda dapat ditunggangi oleh manusia dengan menggunakan sadel dan dapat pula digunakan untuk menarik sesuatu, seperti kendaraan beroda, atau bajak. Pada beberapa daerah, kuda juga digunakan sebagai sumber makanan. Walaupun peternakan kuda diperkirakan telah dimulai sejak tahun 4500 SM, bukti-bukti penggunaan kuda untuk keperluan manusia baru ditemukan terjadi sejak 2000 SM.
+        Dalam bahasa Jawa disebut jaran, bahasa Makassar disebut jarang.
     </string>
-    <string name="alpukat">
-        Apokat (KBBI: Avokad), avokad, atau Persea americana ialah tumbuhan penghasil buah meja dengan nama sama. Tumbuhan ini berasal dari Meksiko dan Amerika Tengah dan kini banyak dibudidayakan di Amerika Selatan dan Amerika Tengah sebagai tanaman perkebunan monokultur dan sebagai tanaman pekarangan di daerah-daerah tropika lainnya di dunia "\n\n"
-        Pohon, dengan batang mencapai tinggi 20 m dengan daun sepanjang 12 hingga 25 cm. Bunganya tersembunyi dengan warna hijau kekuningan dan ukuran 5 hingga 10 milimeter. Ukurannya bervariasi dari 7 hingga 20 sentimeter, dengan massa 100 hingga 1000 gram; biji yang besar, 5 hingga 6,4 sentimeter "\n\n"
-        Buahnya bertipe buni, memiliki kulit lembut tak rata berwarna hijau tua hingga ungu kecoklatan, tergantung pada varietasnya. Daging buah apokat berwarna hijau muda dekat kulit dan kuning muda dekat biji, dengan tekstur lembut
+    <string name="gajah">
+        Gajah adalah mamalia besar dari famili Elephantidae dan ordo Proboscidea. Secara tradisional, terdapat dua spesies yang diakui, yaitu gajah afrika (Loxodonta africana) dan gajah asia (Elephas maximus),
+        walaupun beberapa bukti menunjukkan bahwa gajah semak afrika dan gajah hutan afrika merupakan spesies yang berbeda (L. africana dan L. cyclotis). Gajah tersebar di seluruh Afrika sub-Sahara, Asia Selatan, dan Asia Tenggara. Elephantidae adalah satu-satunya famili dari ordo Proboscidea yang masih ada; famili lain yang kini sudah punah termasuk mamut dan mastodon. Gajah afrika jantan merupakan hewan darat terbesar dengan tinggi hingga 4 m dan massa yang juga dapat mencapai 7.000 kg. Gajah memiliki ciri-ciri khusus, dan yang paling mencolok adalah belalai atau proboscis yang digunakan untuk banyak hal, terutama untuk bernapas, menghisap air, dan mengambil benda. Gigi serinya tumbuh menjadi taring yang dapat digunakan sebagai senjata dan alat untuk memindahkan benda atau menggali. Daun telinganya yang besar membantu mengatur suhu tubuh mereka. Gajah afrika memiliki telinga yang lebih besar dan punggung yang cekung, sementara telinga gajah asia lebih kecil dan punggungnya cembung.
     </string>
-    <string name="strawberry">
-        banyak dikenal di dunia. Seperti spesies lain dalam genus Fragaria (stroberi), buah ini berada dalam keluarga Rosaceae. Secara umum buah ini bukanlah buah, melainkan buah palsu, artinya daging buahnya tidak berasal dari ovari tanaman (achenium) tetapi dari bagian bawah hypanthium yang berbentuk mangkok tempat ovari tanaman itu berada. "\n\n"
-        Buah stroberi berwarna hijau keputihan ketika sedang berkembang, dan pada kebanyakan spesies berubah menjadi merah ketika masak. Namanya berasal dari bahasa Inggris kuno streawberige yang merupakan gabungan dari streaw atau "straw" dan berige atau "berry". Alasan pemberian nama ini masih tidak jelas. Beberapa spesies Lepidoptera mengambil sumber makanannya dari tumbuhan stroberi, menjadikan spesies ini hama utama tanaman stroberi
+    <string name="uler">
+        Ular adalah kelompok reptilia tidak berkaki dan bertubuh panjang yang tersebar luas di dunia.
+        Secara ilmiah, semua jenis ular dikelompokkan dalam satu subordo, yaitu Serpentes dan juga merupakan
+        anggota dari ordo Squamata (reptilia bersisik), bersama-sama dengan kadal. Akan tetapi, ular (Serpentes) sendiri diklasifikasikan
+        pada cabang (klade) Ophidia, yaitu segolongan reptilia-reptilia dengan atau tanpa kaki, bertubuh panjang, dan memiliki fisiologis yang sangat berbeda dengan kadal.
     </string>
     <string name="title_activity_detail_buah">DetailBuahActivity</string>
     <string name="large_text">
@@ -118,11 +131,11 @@
     </string>
     <string name="action_settings">Settings</string>
     <!--link wiki-->
-    <string name="linkApel">http://id.wikipedia.org/wiki/Apel</string>
-    <string name="linkJambuair">https://id.wikipedia.org/wiki/Jambu_air</string>
-    <string name="linkManggis">https://id.wikipedia.org/wiki/Manggis</string>
-    <string name="linkDurian">https://id.wikipedia.org/wiki/Durian</string>
-    <string name="linkCeri">https://id.wikipedia.org/wiki/Ceri</string>
-    <string name="linkAlpukat">https://id.wikipedia.org/wiki/Avokad</string>
-    <string name="linkStrawberry">https://id.wikipedia.org/wiki/Stroberi_kebun</string>
+    <string name="linkJerapah">https://id.wikipedia.org/wiki/Jerapah</string>
+    <string name="linkHarimau">https://id.wikipedia.org/wiki/Harimau</string>
+    <string name="linkKucing">https://id.wikipedia.org/wiki/Kucing</string>
+    <string name="linkKambing">https://id.wikipedia.org/wiki/Kambing</string>
+    <string name="linkKuda">https://id.wikipedia.org/wiki/Kuda</string>
+    <string name="linkGajah">https://id.wikipedia.org/wiki/Gajah</string>
+    <string name="linkUler">https://id.wikipedia.org/wiki/Ular</string>
 </resources>
